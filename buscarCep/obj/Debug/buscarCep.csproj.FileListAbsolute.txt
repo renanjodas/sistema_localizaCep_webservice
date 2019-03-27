@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\bin\Debug\buscarCep.exe.config
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\bin\Debug\buscarCep.exe
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\bin\Debug\buscarCep.pdb
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\obj\Debug\buscarCep.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\obj\Debug\buscarCep.Form1.resources
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\obj\Debug\buscarCep.Properties.Resources.resources
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\obj\Debug\buscarCep.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\obj\Debug\buscarCep.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\obj\Debug\buscarCep.exe
+C:\Users\aluno\Desktop\Renan\BuscarCep\buscarCep\buscarCep\obj\Debug\buscarCep.pdb
